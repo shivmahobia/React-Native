@@ -46,7 +46,8 @@ const styles = StyleSheet.create({
         
       },
       elevatedcard:{
-        backgroundColor: '#9966f2'
+        backgroundColor: '#9966f2',
+        elevation : 4
       },
       elevatedcard1:{
         backgroundColor: '#5bf06f'
